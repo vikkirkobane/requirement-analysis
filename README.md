@@ -92,7 +92,7 @@ Use Case Diagrams are visual representations that illustrate how different users
 
 Below is the use case diagram for the booking management system, illustrating the interactions between users and the system:
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.jpg)
 
 ## Acceptance Criteria
 
